@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Write/Speak/Code: Hacktoberfest 2020
 
-You can use the [editor on GitHub](https://github.com/lbatch/wsc-hacktoberfest-2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+It's time for [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)! This annual event encourages participation in the open source community by challenging participants to submit three quality pull requests to open source projects in the month of October.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How do I participate?
 
-### Markdown
+Sign up on the [Hacktoberfest website](https://hacktoberfest.digitalocean.com/)! 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+But we also hope you'll sign up with Write/Speak/Code and share your participation with us. Leading up to our during the first week of October, we hope you'll open a pull request in [this repo](https://github.com/lbatch/wsc-hacktoberfest-2020) and add your name to the list of Write/Speak/Code members challenging themselves to submit those three open source PRs in October. Then, we challenge you to submit one PR a week (or at whatever pace works best for you) in October and share your progress in the Write/Speak/Code slack channel #open-source.
 
-```markdown
-Syntax highlighted code block
+### Who's participating?
 
-# Header 1
-## Header 2
-### Header 3
+Let us know you're participating by adding your name to the list below via pull request! You can accomplish this by editing the README.md file in [this repo](https://github.com/lbatch/wsc-hacktoberfest-2020).
 
-- Bulleted
-- List
+- Lydia Batchelor
+- ...your name here!
 
-1. Numbered
-2. List
+### Pull request? What?
 
-**Bold** and _Italic_ and `Code` text
+Git is the version control system (VCS) that teams use to track the history of changes on a collaborative project. It lets teams working on open source and other team coding projects manage changes, recover old versions, and prevent conflicting changes when collaborating on the same codebase. If you're new to git or need a refresher, letting us know you're participating in Hacktoberfest is a great opportunity to brush up on your git skills before opening your first open source PR!
 
-[Link](url) and ![Image](src)
-```
+Here are some great resources for learning git:
+- [Github Git Handbook](https://guides.github.com/introduction/git-handbook/)
+- [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
+- [Learn Git Branching](https://learngitbranching.js.org/) - An in-browser interactive game that teaches basic Git skills
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The basic steps for adding your name here:
+- Clone this repository
+- Create a new branch
+- Add a commit adding your name to the list above in the README.md file
+- Open a pull request!
 
-### Jekyll Themes
+### Okay, I'm in, I've added my name, what's next?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lbatch/wsc-hacktoberfest-2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Remember to sign up on the [Hacktoberfest website](https://hacktoberfest.digitalocean.com/) if you haven't already!
 
-### Support or Contact
+Head to #open-source in the Write/Speak/Code slack to report in and track your progress in the month of October! If you aren't a member of the slack channel, click [here](http://bit.ly/wsc-slack-invite) to join!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Start looking for open source projects to contribute to! Here are some resources to get you started:
+- [Hacktoberfest 2020 - Who's Looking for Contributors?](https://dev.to/devteam/whos-looking-for-collaborators-hacktoberfest-2020-jl89)
+- (add more here)
